@@ -1,0 +1,15 @@
+0.  pneumonoultramicroscopicsilicovolcanoconiosis is a pneumoconiosis caused by 
+inhalation of very fine silicate or quartz dust..
+1.  returns resource usage measures
+2.  16
+3.  Its becuase its a struct.
+4.  it first checks for a character and appends other character sfter it. It also
+ omits any words with numbers and symbols.
+5.  fgetc allows to get the words character by character,allowing  us to omit 
+numbers, symbols etc.
+6.  So that the words are not changed in any way 
+7.  hash tables. each of my nodes have a char array and n pointer to another node.
+I implemented the buckets according to the first letters of the words.
+8.  Really really slow
+9.  used hashtables instead of linked lists which i used first
+10. I could have made it more faster with more effort.
